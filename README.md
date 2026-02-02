@@ -43,8 +43,3 @@ The project uses `output: "export"` in `next.config.mjs`, which:
 - Disables Next.js Image Optimization API (not supported by Azure Static Web Apps)
 - Creates static HTML files for all routes
 
-### Deployment Steps
-
-1. Build the static site: `npm run build`
-2. Deploy the `out/` directory to Azure Static Web Apps
-3. All routes (`/`, `/about`, `/goals`, `/contact`) are pre-rendered as static HTML
