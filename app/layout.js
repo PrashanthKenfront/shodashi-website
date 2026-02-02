@@ -12,7 +12,22 @@ const albertSans = Albert_Sans({
 export const metadata = {
   title: "Shodashi",
   description: "Shodashi",
+  icons: {
+    icon: "/favicon.ico",
+  },
 };
+
+// export const metadata: Metadata = {
+//   title: "Spendcraft",
+//   description: "Self-service spend classification, research and analytics",
+//   icons: {
+//     icon: [
+//       { url: "/favicon.ico", sizes: "27x32" },
+//       { url: "/icon.png", sizes: "27x32" },
+//     ],
+//     apple: { url: "/apple-icon.png", sizes: "180x180" },
+//   },
+// };
 
 export default function RootLayout({ children }) {
   return (
