@@ -10,17 +10,17 @@ export default function Method() {
     { 
       title: "Psychological safety", 
       description: "Trusted spaces for honest dialogue and growth.",
-      image: "/images/home-screen.jpeg",
+      image: "/images/psychological.jpg",
     },
     { 
       title: "Collective intelligence", 
       description: "Harness group wisdom to build alignment and ownership.",
-      image: "/images/hero-bg.jpeg",
+      image: "/images/leadership.jpg",
     },
     { 
       title: "Sustainable energy", 
       description: "Practices leaders can maintain, not just admire.",
-      image: "/images/home-screen.jpeg",
+      image: "/images/sustainable-energy.jpg",
     },
   ];
 

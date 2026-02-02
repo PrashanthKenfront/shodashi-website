@@ -3,17 +3,17 @@ export default function Strengths() {
     {
       headline: "Presence",
       copy: "Lead from a centred place—especially when things get fast, messy, or high-stakes. Build executive presence that feels calm, clear, and credible, without performing a version of yourself.",
-      image: "/images/hero-bg.jpeg",
+      image: "/images/presence.jpg",
     },
     {
       headline: "Culture",
       copy: "Shape the conditions where people do their best work: psychological safety, accountability, and shared ownership. Strengthen how teams listen, challenge, decide, and recover—so culture becomes a capability, not a slogan.",
-      image: "/images/hero-bg.jpeg",
+      image: "/images/culture.jpg",
     },
     {
       headline: "Conversations",
       copy: "Make conversations move decisions forward. Build communication and negotiation habits that reduce friction, clarify priorities, and align stakeholders—across roles, power dynamics, and cultures.",
-      image: "/images/hero-bg.jpeg",
+      image: "/images/conversations.jpg",
     },
   ];
 
