@@ -1,6 +1,7 @@
 import { Albert_Sans } from "next/font/google";
 import Header from "@/components/Header";
 import "./globals.css";
+import { Analytics } from "@vercel/analytics/next"
 
 const albertSans = Albert_Sans({
   variable: "--font-sans",
@@ -36,6 +37,7 @@ export default function RootLayout({ children }) {
             </div>
           </div>
         </footer>
+        <Analytics />
       </body>
     </html>
   );
